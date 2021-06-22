@@ -8,7 +8,8 @@ Joyjoey:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   # 자기 소개
-  about:       손홍백    |
+  about:  
+    
     
     저는 캐나다에서 컴퓨터 전공을 마치고 한국에 돌아와 현재 개발자로 취업 준비중인 학생입니다.
 
