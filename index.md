@@ -23,8 +23,8 @@ Github pages 블로그를 운영하는 중입니다.💻
 ---
 
 ![my Image]({{site.baseurl}}//star.jpeg)  
-Google Arts & Culture **© Vincent van Gogh.**
-_The Starry Night._ 1889.
+              Google Arts & Culture **© Vincent van Gogh.**
+               _The Starry Night._ 1889.
 
 
 
